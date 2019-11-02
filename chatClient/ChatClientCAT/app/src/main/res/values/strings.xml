@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatClientCAT</string>
+    <string name="sendButton">Send</string>
+    <string name="requestButton">Request</string>
+    <string name="messageView">Message</string>
+    <string name="createButton">Login</string>
+    <string name="username">Username</string>
+    <string name="infoView">Welcome!</string>
+    <string name="topChatters">Top Chatters</string>
+    <string name="users">Users</string>
+    <string name="chatHistory">Chat History</string>
+</resources>
