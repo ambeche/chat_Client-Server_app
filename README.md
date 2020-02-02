@@ -52,6 +52,6 @@
   **Extract** the downloaded project and open the server folder, ChatServerCAT with Intellij IDEA. Then build and run the server project on Intellij IDEA. ***Note: Server App runs on port 3000***
   ### 3.3 Make sure that your that your server is running on your PC, and your android device is connected to the same LAN as your PC.
   Then open the client on your android device, login and start chatting. Open multiple clients and Telnet clients on your PC, then connect them to your server and chat.
-  ### If the installer link above does not work, open the ChatClientCAT folder [Android Studio](https://developer.android.com/studio/?gclid=CjwKCAiAg9rxBRADEiwAxKDTuhCA7u13DRTLlB7YshYc7BZrdnGumbdFia_m33cqwwreesEjzhiG1hoCKygQAvD_BwE) - chat_Client-Server_app -> ChatClientCAT
+  ### If the installer link above does not work, open the ChatClientCAT folder with [Android Studio](https://developer.android.com/studio/?gclid=CjwKCAiAg9rxBRADEiwAxKDTuhCA7u13DRTLlB7YshYc7BZrdnGumbdFia_m33cqwwreesEjzhiG1hoCKygQAvD_BwE) - chat_Client-Server_app -> ChatClientCAT
   Then go to Project => src=>main=>Java=>com.example.chatclientcat=>ServerConnector.kt and change the IP address to that of your PC  socket = Socket("Your IP here", 3000). 
   Then save the file, build and run the project on android simulators and connect to the server.
