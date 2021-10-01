@@ -3,7 +3,7 @@
   - The client and the server must run in the same network for connection to be established
   - ChatServerCAT runs on Intellij IDE on a PC
 
-## [App's Demo Video](https://photos.app.goo.gl/yaJr15Zni4XN1ZN9A)
+## [App's Demo Video](https://youtu.be/357jD3-x-Wo)
 
  ## 1. ChatClientCAT - Android Client
    ### 1.1 Implemented Features
